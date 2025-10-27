@@ -1,0 +1,9 @@
+product_id,product_name,category,price,stock_quantity,last_updated
+P001,"Laptop Computer",Electronics,999.99,25,"2024-01-15"
+P002,"Office Chair",Furniture,299.50,12,"2024-01-16"
+P003,"Coffee Mug",Kitchen,15.99,150,"2024-01-14"
+P004,"Smartphone",Electronics,699.00,8,"2024-01-17"
+P005,"Desk Lamp",Furniture,89.95,30,"2024-01-15"
+P006,"Notebook Set",Office,24.99,75,"2024-01-16"
+P007,"Wireless Mouse",Electronics,49.99,45,"2024-01-14"
+P008,"Plant Pot",Garden,19.95,22,"2024-01-17"
